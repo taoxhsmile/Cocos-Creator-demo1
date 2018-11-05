@@ -1,5 +1,5 @@
 # Cocos-Creator-demo1
-Cocos Creator 入门篇-拖拽小游戏（一）
+Vue 服务端渲染（SSR）、Nuxt.js - 从入门到实践
 
 ### 文章详情地址：
-https://juejin.im/post/5b88d28e51882543057da316
+https://juejin.im/post/5bd3fba951882526f11d5575
